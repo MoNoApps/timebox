@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+.gen-flex {
+  display: flex;
+}
+.gen-box-1 {
+  flex: 1;
+}
+.gen-box-2 {
+  flex: 2;
+}
+.gen-box-3 {
+  flex: 3;
+}
+.gen-box-4 {
+  flex: 4;
+}
+.gen-box-5 {
+  flex: 5;
+}
+.gen-box-6 {
+  flex: 6;
+}
+.gen-box-7 {
+  flex: 7;
+}
+.gen-box-8 {
+  flex: 8;
+}
